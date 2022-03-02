@@ -6,6 +6,6 @@ public class App {
     }
 
     public String welcomeMessage(){
-        return "Hello World!!";
+        return "Hello World!";
     }
 }

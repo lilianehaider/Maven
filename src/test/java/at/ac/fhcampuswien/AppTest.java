@@ -10,6 +10,6 @@ public class AppTest {
         App myApp = new App();
 
         String actual = myApp.welcomeMessage();
-        assertEquals("Hello World!!", actual);
+        assertEquals("Hello World!", actual);
     }
 }
